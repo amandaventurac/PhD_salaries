@@ -1,0 +1,775 @@
+alabama a&m university/alabama
+alabama state university/alabama
+athens state university/alabama
+auburn university system/alabama
+auburn university/alabama
+auburn university at montgomery/alabama
+jacksonville state university/alabama
+troy university/alabama
+university of alabama system/alabama
+university of alabama/alabama
+university of alabama at birmingham/alabama
+university of alabama in huntsville/alabama
+university of montevallo/alabama
+university of north alabama/alabama
+university of south alabama/alabama
+university of west alabama/alabama
+university of alaska system/alaska
+university of alaska fairbanks/alaska
+university of alaska anchorage/alaska
+university of alaska southeast/alaska
+arizona board of regents/arizona
+arizona state university/arizona
+northern arizona university/arizona
+university of arizona/arizona
+university of arkansas system/arkansas
+university of arkansas/arkansas
+university of arkansas–fort smith/arkansas
+university of arkansas at little rock/arkansas
+university of arkansas for medical sciences/arkansas
+university of arkansas at monticello/arkansas
+university of arkansas at pine bluff/arkansas
+arkansas state university system/arkansas
+arkansas state university/arkansas
+arkansas tech university/arkansas
+university of central arkansas/arkansas
+henderson state university/arkansas
+southern arkansas university/arkansas
+university of california system/california
+university of california, berkeley/california
+university of california, davis/california
+university of california, irvine/california
+university of california, los angeles/california
+university of california, merced/california
+university of california, riverside/california
+university of california, san diego/california
+university of california, san francisco/california
+university of california, santa barbara/california
+university of california, santa cruz/california
+university of california, hastings college of the law/california
+california state university system/california
+california state university, bakersfield/california
+california state university, channel islands/california
+california state university, chico/california
+california state university, dominguez hills/california
+california state university, east bay/california
+california state university, fresno/california
+california state university, fullerton/california
+humboldt state university/california
+california state university, long beach/california
+california state university, los angeles/california
+california maritime academy/california
+california state university, monterey bay/california
+california state university, northridge/california
+california state polytechnic university, pomona/california
+california state university, sacramento/california
+california state university, san bernardino/california
+san diego state university/california
+san francisco state university/california
+san jose state university/california
+california polytechnic state university, san luis obispo/california
+california state university, san marcos/california
+sonoma state university/california
+california state university, stanislaus/california
+adams state university/colorado
+university of colorado system/colorado
+university of colorado boulder/colorado
+university of colorado colorado springs/colorado
+university of colorado denver/colorado
+colorado mesa university/colorado
+colorado school of mines/colorado
+colorado state university system/colorado
+colorado state university/colorado
+colorado state university–pueblo/colorado
+colorado state university–global campus/colorado
+fort lewis college/colorado
+metropolitan state university of denver/colorado
+university of northern colorado/colorado
+western colorado university/colorado
+charter oak state college/connecticut
+connecticut state university system/connecticut
+central connecticut state university/connecticut
+eastern connecticut state university/connecticut
+southern connecticut state university/connecticut
+western connecticut state university/connecticut
+university of connecticut/connecticut
+university of delaware/delaware
+delaware state university/delaware
+district of columbia/delaware
+university of the district of columbia/delaware
+universities chartered by congress/delaware
+/delaware
+state university system of florida/florida
+florida a&m university/florida
+florida atlantic university/florida
+florida gulf coast university/florida
+florida international university/florida
+florida polytechnic university/florida
+florida state university/florida
+new college of florida/florida
+university of central florida/florida
+university of florida/florida
+university of north florida/florida
+university of south florida system/florida
+university of south florida/florida
+university of south florida sarasota–manatee/florida
+university of south florida st. petersburg/florida
+university of west florida/florida
+florida college system/florida
+broward college/florida
+chipola college/florida
+college of central florida/florida
+daytona state college/florida
+eastern florida state college/florida
+florida gateway college/florida
+florida southwestern state college/florida
+florida state college at jacksonville/florida
+gulf coast state college/florida
+indian river state college/florida
+lake–sumter state college/florida
+miami dade college/florida
+northwest florida state college/florida
+palm beach state college/florida
+pasco–hernando state college/florida
+pensacola state college/florida
+polk state college/florida
+santa fe college/florida
+seminole state college of florida/florida
+south florida state college/florida
+st. johns river state college/florida
+st. petersburg college/florida
+state college of florida, manatee–sarasota/florida
+tallahassee community college/florida
+valencia college/florida
+university system of georgia/georgia
+abraham baldwin agricultural college/georgia
+albany state university/georgia
+atlanta metropolitan state college/georgia
+augusta university/georgia
+clayton state university/georgia
+college of coastal georgia/georgia
+columbus state university/georgia
+dalton state college/georgia
+east georgia state college/georgia
+fort valley state university/georgia
+georgia college and state university/georgia
+georgia gwinnett college/georgia
+georgia highlands college/georgia
+georgia institute of technology/georgia
+georgia southern university/georgia
+georgia southwestern state university/georgia
+georgia state university/georgia
+gordon state college/georgia
+kennesaw state university/georgia
+middle georgia state university/georgia
+savannah state university/georgia
+south georgia state college/georgia
+university of georgia/georgia
+university of north georgia/georgia
+university of west georgia/georgia
+valdosta state university/georgia
+university of guam/guam
+university of hawaiʻi system/hawaii
+university of hawaiʻi at mānoa/hawaii
+university of hawaiʻi at hilo/hawaii
+university of hawaiʻi maui college/hawaii
+university of hawaiʻi–west oʻahu/hawaii
+boise state university/idaho
+university of idaho/idaho
+idaho state university/idaho
+lewis–clark state college/idaho
+chicago state university/illinois
+eastern illinois university/illinois
+governors state university/illinois
+illinois state university/illinois
+university of illinois system/illinois
+university of illinois at urbana–champaign/illinois
+university of illinois at chicago/illinois
+university of illinois at springfield/illinois
+northeastern illinois university/illinois
+northern illinois university/illinois
+southern illinois university system/illinois
+southern illinois university carbondale/illinois
+southern illinois university edwardsville/illinois
+western illinois university/illinois
+ball state university/indiana
+indiana university system/indiana
+indiana university bloomington/indiana
+indiana university east/indiana
+indiana university fort wayne/indiana
+indiana university kokomo/indiana
+indiana university northwest/indiana
+indiana university south bend/indiana
+indiana university southeast/indiana
+indiana university – purdue university columbus/indiana
+indiana university – purdue university indianapolis/indiana
+indiana state university/indiana
+purdue university system/indiana
+purdue university/indiana
+purdue university fort wayne/indiana
+purdue university northwest –/indiana
+university of southern indiana/indiana
+vincennes university/indiana
+university of iowa/iowa
+iowa state university/iowa
+university of northern iowa/iowa
+emporia state university/kansas
+fort hays state university/kansas
+university of kansas/kansas
+kansas state university/kansas
+pittsburg state university/kansas
+wichita state university/kansas
+note: washburn university in topeka is a municipally-chartered university./kansas
+/kansas
+eastern kentucky university/kentucky
+university of kentucky/kentucky
+kentucky state university/kentucky
+university of louisville/kentucky
+morehead state university/kentucky
+murray state university/kentucky
+northern kentucky university/kentucky
+western kentucky university/kentucky
+louisiana state university system/louisiana
+louisiana state university and a&m college/louisiana
+louisiana state university agricultural center/louisiana
+louisiana state university at eunice/louisiana
+louisiana state university of alexandria/louisiana
+louisiana state university shreveport/louisiana
+lsu health sciences center new orleans/louisiana
+lsu health sciences center shreveport/louisiana
+paul m. hebert law center/louisiana
+pennington biomedical research center/louisiana
+university of louisiana system/louisiana
+grambling state university/louisiana
+louisiana tech university/louisiana
+mcneese state university/louisiana
+nicholls state university/louisiana
+northwestern state university/louisiana
+southeastern louisiana university/louisiana
+university of louisiana at lafayette/louisiana
+university of louisiana at monroe/louisiana
+university of new orleans/louisiana
+southern university system/louisiana
+southern university/louisiana
+southern university at new orleans/louisiana
+southern university at shreveport/louisiana
+maine maritime academy/maine
+university of maine system/maine
+university of maine/maine
+university of maine school of law/maine
+university of maine at augusta/maine
+university of maine at farmington/maine
+university of maine at fort kent/maine
+university of maine at machias/maine
+university of maine at presque isle/maine
+university of southern maine/maine
+morgan state university/maryland
+st. mary's college of maryland/maryland
+university system of maryland/maryland
+university of maryland, college park/maryland
+bowie state university/maryland
+coppin state university/maryland
+frostburg state university/maryland
+salisbury university/maryland
+towson university/maryland
+university of baltimore/maryland
+university of maryland, baltimore/maryland
+university of maryland, baltimore county/maryland
+university of maryland eastern shore/maryland
+university of maryland global campus/maryland
+university of maryland center for environmental science/maryland
+university of maryland biotechnology institute/maryland
+university of massachusetts system/massachusetts
+university of massachusetts amherst/massachusetts
+university of massachusetts boston/massachusetts
+university of massachusetts dartmouth/massachusetts
+university of massachusetts lowell/massachusetts
+university of massachusetts medical school/massachusetts
+state university system/massachusetts
+bridgewater state university/massachusetts
+fitchburg state university/massachusetts
+framingham state university/massachusetts
+salem state university/massachusetts
+westfield state university/massachusetts
+worcester state university/massachusetts
+massachusetts college of art and design/massachusetts
+massachusetts college of liberal arts/massachusetts
+massachusetts maritime academy/massachusetts
+central michigan university/michigan
+eastern michigan university/michigan
+ferris state university/michigan
+grand valley state university/michigan
+lake superior state university/michigan
+university of michigan system/michigan
+university of michigan/michigan
+university of michigan–dearborn/michigan
+university of michigan–flint/michigan
+michigan state university/michigan
+michigan technological university/michigan
+northern michigan university/michigan
+oakland university/michigan
+saginaw valley state university/michigan
+wayne state university/michigan
+western michigan university/michigan
+minnesota state colleges and universities system/minnesota
+bemidji state university/minnesota
+minnesota state university, mankato/minnesota
+minnesota state university moorhead/minnesota
+metropolitan state university/minnesota
+southwest minnesota state university/minnesota
+st. cloud state university/minnesota
+winona state university/minnesota
+university of minnesota system/minnesota
+university of minnesota twin cities/minnesota
+university of minnesota crookston/minnesota
+university of minnesota duluth/minnesota
+university of minnesota morris/minnesota
+university of minnesota rochester/minnesota
+alcorn state university/mississippi
+delta state university/mississippi
+jackson state university/mississippi
+mississippi state university/mississippi
+mississippi university for women/mississippi
+mississippi valley state university/mississippi
+university of mississippi/mississippi
+university of southern mississippi/mississippi
+university of central missouri/missouri
+harris–stowe state university/missouri
+lincoln university of missouri/missouri
+university of missouri system/missouri
+university of missouri/missouri
+university of missouri–kansas city/missouri
+missouri university of science and technology/missouri
+university of missouri–st. louis/missouri
+missouri southern state university/missouri
+missouri state university/missouri
+missouri western state university/missouri
+northwest missouri state university/missouri
+southeast missouri state university/missouri
+truman state university/missouri
+montana university system/montana
+montana state university system/montana
+montana state university/montana
+montana state university billings/montana
+montana state university–northern/montana
+university of montana system/montana
+university of montana/montana
+montana technological university/montana
+university of montana western/montana
+nebraska state college system/nebraska
+chadron state college/nebraska
+peru state college/nebraska
+wayne state college/nebraska
+university of nebraska system/nebraska
+university of nebraska–lincoln/nebraska
+university of nebraska at kearney/nebraska
+university of nebraska omaha/nebraska
+university of nebraska medical center/nebraska
+nevada system of higher education/nevada
+university of nevada, reno/nevada
+college of southern nevada/nevada
+great basin college/nevada
+nevada state college/nevada
+university of nevada, las vegas/nevada
+western nevada college/nevada
+truckee meadows community college/nevada
+new hampshire/nevada
+university system of new hampshire/nevada
+granite state college/nevada
+keene state college/nevada
+plymouth state university/nevada
+university of new hampshire/nevada
+new jersey/nevada
+the college of new jersey/nevada
+kean university/nevada
+montclair state university/nevada
+new jersey city university/nevada
+new jersey institute of technology/nevada
+ramapo college of new jersey/nevada
+rowan university/nevada
+rutgers university system/nevada
+rutgers university–new brunswick/nevada
+rutgers university–newark/nevada
+rutgers university–camden/nevada
+stockton university/nevada
+thomas edison state university/nevada
+william paterson university of new jersey/nevada
+new mexico/nevada
+eastern new mexico university/nevada
+university of new mexico/nevada
+new mexico highlands university/nevada
+new mexico state university/nevada
+new mexico institute of mining and technology/nevada
+northern new mexico college/nevada
+western new mexico university/nevada
+new york/nevada
+state university of new york/nevada
+university centers/nevada
+the state university of new york at buffalo/nevada
+university at albany/nevada
+binghamton university/nevada
+stony brook university/nevada
+other doctoral-granting institutions/nevada
+health science center brooklyn/nevada
+state university of new york upstate medical university/nevada
+state university of new york polytechnic institute/nevada
+new york state college of ceramics/nevada
+college of agriculture and life sciences/nevada
+college of human ecology/nevada
+college of veterinary medicine/nevada
+school of industrial and labor relations/nevada
+state university of new york college of environmental science and forestry/nevada
+state university of new york state college of optometry/nevada
+comprehensive colleges/nevada
+buffalo state college/nevada
+empire state college/nevada
+state university of new york at brockport/nevada
+state university of new york at cortland/nevada
+state university of new york at fredonia/nevada
+state university of new york at geneseo/nevada
+state university of new york at new paltz/nevada
+state university of new york at old westbury/nevada
+state university of new york at oneonta/nevada
+state university of new york at oswego/nevada
+state university of new york at plattsburgh/nevada
+state university of new york at potsdam/nevada
+state university of new york at purchase/nevada
+technology colleges/nevada
+alfred state college/nevada
+fashion institute of technology/nevada
+state university of new york at canton/nevada
+state university of new york at cobleskill/nevada
+state university of new york at delhi/nevada
+state university of new york at farmingdale/nevada
+morrisville state college/nevada
+state university of new york maritime college/nevada
+city university of new york/nevada
+colleges/nevada
+baruch college/nevada
+brooklyn college/nevada
+city college of new york/nevada
+college of staten island/nevada
+hunter college/nevada
+john jay college of criminal justice/nevada
+lehman college/nevada
+medgar evers college/nevada
+new york city college of technology/nevada
+queens college/nevada
+york college/nevada
+graduate and professional schools/nevada
+cuny graduate center/nevada
+cuny graduate school of journalism/nevada
+cuny school of law/nevada
+cuny school of medicine/nevada
+cuny school of professional studies/nevada
+cuny school of public health/nevada
+william e. macaulay honors college/nevada
+north carolina/nevada
+university of north carolina system/nevada
+appalachian state university/nevada
+east carolina university/nevada
+elizabeth city state university/nevada
+fayetteville state university/nevada
+north carolina a&t state university/nevada
+north carolina central university/nevada
+north carolina state university/nevada
+university of north carolina at asheville/nevada
+university of north carolina at chapel hill/nevada
+university of north carolina at charlotte/nevada
+university of north carolina at greensboro/nevada
+university of north carolina at pembroke/nevada
+university of north carolina at wilmington/nevada
+university of north carolina school of the arts/nevada
+western carolina university/nevada
+winston-salem state university/nevada
+north dakota/nevada
+north dakota university system/nevada
+bismarck state college/nevada
+dickinson state university/nevada
+mayville state university/nevada
+minot state university/nevada
+university of north dakota/nevada
+north dakota state university/nevada
+valley city state university/nevada
+northern mariana islands/nevada
+northern marianas college/nevada
+university system of ohio/ohio
+university of akron/ohio
+bowling green state university/ohio
+central state university/ohio
+university of cincinnati/ohio
+cleveland state university/ohio
+kent state university/ohio
+miami university/ohio
+northeast ohio medical university/ohio
+ohio state university/ohio
+ohio university/ohio
+shawnee state university/ohio
+university of toledo/ohio
+wright state university/ohio
+youngstown state university/ohio
+cameron university/oklahoma
+university of central oklahoma/oklahoma
+east central university/oklahoma
+langston university/oklahoma
+northeastern state university/oklahoma
+northwestern oklahoma state university/oklahoma
+university of oklahoma system/oklahoma
+university of oklahoma/oklahoma
+university of oklahoma-tulsa schusterman center/oklahoma
+university of oklahoma health sciences center/oklahoma
+oklahoma panhandle state university/oklahoma
+oklahoma state university system/oklahoma
+oklahoma state university–stillwater/oklahoma
+oklahoma state university center for health sciences/oklahoma
+oklahoma state university institute of technology/oklahoma
+oklahoma state university–oklahoma city/oklahoma
+oklahoma state university–tulsa/oklahoma
+rogers state university/oklahoma
+university of science and arts of oklahoma/oklahoma
+southeastern oklahoma state university/oklahoma
+southwestern oklahoma state university/oklahoma
+university of central oklahoma/oklahoma
+university of oregon/oregon
+oregon health & science university/oregon
+oregon state university/oregon
+portland state university/oregon
+eastern oregon university/oregon
+oregon institute of technology/oregon
+southern oregon university/oregon
+western oregon university/oregon
+pennsylvania state system of higher education/pennsylvania
+/pennsylvania
+the 14 universities in passhe are state-owned. they are directly governed by gubernatorial appointees sitting on the passhe board of governors. each university also has an independent council of trustees appointed by the commonwealth's governor./pennsylvania
+/pennsylvania
+state-owned universities:/pennsylvania
+bloomsburg university of pennsylvania/pennsylvania
+california university of pennsylvania/pennsylvania
+cheyney university of pennsylvania/pennsylvania
+clarion university of pennsylvania/pennsylvania
+east stroudsburg university of pennsylvania/pennsylvania
+edinboro university of pennsylvania/pennsylvania
+indiana university of pennsylvania/pennsylvania
+kutztown university of pennsylvania/pennsylvania
+lock haven university of pennsylvania/pennsylvania
+mansfield university of pennsylvania/pennsylvania
+millersville university of pennsylvania/pennsylvania
+shippensburg university of pennsylvania/pennsylvania
+slippery rock university of pennsylvania/pennsylvania
+west chester university of pennsylvania/pennsylvania
+commonwealth system of higher education/pennsylvania
+/pennsylvania
+universities of the commonwealth system of higher education receive public funds and reduce tuition for residents of pennsylvania. gubernatorial appointees are always a minority of their respective governing boards./pennsylvania
+/pennsylvania
+state-related institutions:/pennsylvania
+lincoln university/pennsylvania
+pennsylvania state university system/pennsylvania
+penn state university park/pennsylvania
+penn state abington/pennsylvania
+penn state altoona/pennsylvania
+penn state berks/pennsylvania
+penn state beaver/pennsylvania
+penn state brandywine/pennsylvania
+penn state college of medicine/pennsylvania
+penn state dickinson law/pennsylvania
+penn state dubois/pennsylvania
+penn state erie, the behrend college/pennsylvania
+penn state fayette/pennsylvania
+penn state great valley/pennsylvania
+penn state greater allegheny/pennsylvania
+penn state harrisburg/pennsylvania
+penn state hazleton/pennsylvania
+penn state lehigh valley/pennsylvania
+penn state mont alto/pennsylvania
+penn state new kensington/pennsylvania
+penn state schuylkill/pennsylvania
+penn state scranton/pennsylvania
+penn state shenango/pennsylvania
+penn state wilkes-barre/pennsylvania
+penn state world campus/pennsylvania
+penn state york/pennsylvania
+temple university system/pennsylvania
+temple university/pennsylvania
+temple university ambler/pennsylvania
+university of pittsburgh system/pennsylvania
+university of pittsburgh/pennsylvania
+university of pittsburgh at bradford/pennsylvania
+university of pittsburgh at greensburg/pennsylvania
+university of pittsburgh at johnstown/pennsylvania
+university of pittsburgh at titusville/pennsylvania
+puerto rico/pennsylvania
+university of puerto rico system/pennsylvania
+university of puerto rico at rio piedras/pennsylvania
+university of puerto rico at mayagüez/pennsylvania
+university of puerto rico at arecibo/pennsylvania
+university of puerto rico at bayamón/pennsylvania
+university of puerto rico at carolina/pennsylvania
+university of puerto rico at cayey/pennsylvania
+university of puerto rico at humacao/pennsylvania
+university of puerto rico at aguadilla/pennsylvania
+university of puerto rico at ponce/pennsylvania
+university of puerto rico at utuado/pennsylvania
+university of puerto rico, medical sciences campus/pennsylvania
+escuela de artes plásticas y diseño de puerto rico/pennsylvania
+conservatory of music of puerto rico/pennsylvania
+rhode island/pennsylvania
+rhode island college/pennsylvania
+university of rhode island/pennsylvania
+south carolina/pennsylvania
+the citadel/pennsylvania
+clemson university/pennsylvania
+coastal carolina university/pennsylvania
+college of charleston/pennsylvania
+francis marion university/pennsylvania
+lander university/pennsylvania
+medical university of south carolina/pennsylvania
+university of south carolina system/pennsylvania
+university of south carolina/pennsylvania
+university of south carolina aiken/pennsylvania
+university of south carolina beaufort/pennsylvania
+university of south carolina lancaster/pennsylvania
+university of south carolina salkehatchie/pennsylvania
+university of south carolina sumter/pennsylvania
+university of south carolina union/pennsylvania
+university of south carolina upstate/pennsylvania
+south carolina state university/pennsylvania
+winthrop university/pennsylvania
+south dakota/pennsylvania
+black hills state university/pennsylvania
+dakota state university/pennsylvania
+northern state university/pennsylvania
+university of south dakota/pennsylvania
+south dakota school of mines and technology/pennsylvania
+south dakota state university/pennsylvania
+austin peay state university/tennessee
+east tennessee state university/tennessee
+middle tennessee state university/tennessee
+tennessee state university/tennessee
+tennessee technological university/tennessee
+university of memphis/tennessee
+university of tennessee system/tennessee
+university of tennessee at knoxville/tennessee
+university of tennessee at chattanooga/tennessee
+university of tennessee at martin/tennessee
+university of tennessee health science center/tennessee
+university of tennessee space institute/tennessee
+university of houston system/texas
+university of houston/texas
+university of houston–clear lake/texas
+university of houston–downtown/texas
+university of houston–victoria/texas
+midwestern state university/texas
+university of north texas system/texas
+university of north texas/texas
+university of north texas at dallas/texas
+university of north texas health science center/texas
+stephen f. austin state university/texas
+the university of texas system/texas
+academic institutions/texas
+the university of texas at arlington/texas
+the university of texas at austin/texas
+the university of texas at dallas/texas
+the university of texas at el paso/texas
+the university of texas of the permian basin/texas
+the university of texas rio grande valley/texas
+the university of texas at san antonio/texas
+the university of texas at tyler/texas
+health institutions/texas
+university of texas md anderson cancer center/texas
+university of texas medical branch/texas
+university of texas southwestern medical center/texas
+university of texas health science center at houston/texas
+university of texas health science center at san antonio/texas
+university of texas health science center at tyler/texas
+texas a&m university system/texas
+texas a&m university/texas
+prairie view a&m university/texas
+tarleton state university/texas
+texas a&m international university/texas
+texas a&m university–central texas/texas
+texas a&m university–commerce/texas
+texas a&m university–corpus christi/texas
+texas a&m university–kingsville/texas
+texas a&m university–san antonio/texas
+texas a&m university–texarkana/texas
+west texas a&m university/texas
+texas southern university/texas
+texas state university system/texas
+lamar university/texas
+sam houston state university/texas
+sul ross state university/texas
+texas state university/texas
+texas tech university system/texas
+angelo state university/texas
+texas tech university/texas
+texas woman's university/texas
+north american university/texas
+utah system of higher education/utah
+dixie state university/utah
+snow college/utah
+southern utah university/utah
+university of utah/utah
+utah state university/utah
+utah valley university/utah
+weber state university/utah
+vermont state colleges/vermont
+castleton university/vermont
+northern vermont university/vermont
+university of vermont/vermont
+vermont technical college/vermont
+christopher newport university/virginia
+eastern virginia medical school/virginia
+george mason university/virginia
+james madison university/virginia
+longwood university/virginia
+university of mary washington/virginia
+norfolk state university/virginia
+old dominion university/virginia
+radford university/virginia
+university of virginia/virginia
+university of virginia's college at wise/virginia
+virginia commonwealth university/virginia
+virginia military institute/virginia
+virginia polytechnic institute and state university/virginia
+virginia state university/virginia
+the college of william & mary/virginia
+virgin islands/virginia
+university of the virgin islands system/virginia
+university of the virgin islands – st. croix campus/virginia
+university of the virgin islands – st. thomas campus/virginia
+central washington university/washington
+eastern washington university/washington
+evergreen state college/washington
+university of washington/washington
+washington state university/washington
+western washington university/washington
+west virginia/washington
+bluefield state college/washington
+concord university/washington
+fairmont state university/washington
+glenville state college/washington
+marshall university/washington
+shepherd university/washington
+west liberty university/washington
+west virginia university at parkersburg/washington
+west virginia university system/washington
+west virginia university/washington
+potomac state college of west virginia university/washington
+west virginia university institute of technology/washington
+west virginia school of osteopathic medicine/washington
+west virginia state university/washington
+university of wisconsin system/wisconsin
+university of wisconsin–madison/wisconsin
+university of wisconsin–eau claire/wisconsin
+university of wisconsin–green bay/wisconsin
+university of wisconsin–la crosse/wisconsin
+university of wisconsin–milwaukee/wisconsin
+university of wisconsin–oshkosh/wisconsin
+university of wisconsin–parkside/wisconsin
+university of wisconsin–platteville/wisconsin
+university of wisconsin–river falls/wisconsin
+university of wisconsin–stevens point/wisconsin
+university of wisconsin–stout/wisconsin
+university of wisconsin–superior/wisconsin
+university of wisconsin–whitewater/wisconsin
+university of wyoming/wyoming
